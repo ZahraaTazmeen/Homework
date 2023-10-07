@@ -52,7 +52,7 @@ public class AnimalTest {
 		snake.animalInfo();
 		// This is a multi-level inheritance
 
-		// hierarchical inheritance is shown between the children classes Mammal,
+		// hierarchical inheritance is shown between the children classes Mammal
 		// Reptile, and Birds class and the parent class Animal class.
 	}
 }
