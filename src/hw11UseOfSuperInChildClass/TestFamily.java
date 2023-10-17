@@ -12,7 +12,7 @@ public class TestFamily {
 		Daughter daughter1 = new Daughter("March",25);
 
 		daughter1.daughter();
-		daughter1.daughter("March",25);
+		daughter1.daughter("May",24);
 		
 	}
 }
