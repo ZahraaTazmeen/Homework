@@ -1,4 +1,4 @@
-package hw12Abstraction;
+package hw13Abstraction;
 
 public class NYUniversity {
 
