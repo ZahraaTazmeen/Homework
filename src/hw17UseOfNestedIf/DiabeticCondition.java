@@ -1,4 +1,4 @@
-package hw7UseOfNestedIf;
+package hw17UseOfNestedIf;
 
 import java.util.Scanner;
 
